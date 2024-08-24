@@ -15,7 +15,6 @@ tags:
 ### 글 작성 이유
 써야할 일이 종종 생기는데, 매번 외워지지는 않고.. 찾기는 귀찮고.. 해서 <br>
 자주 쓰이는 것들은 모아두고 보자 마인드로 쓰게 되었습니다. <br>
-git bash 잘 쓰면 좋잖아요 ^^ 외워봅시다.
 
 # 자주 쓰는 commands
 
@@ -28,14 +27,14 @@ git bash 잘 쓰면 좋잖아요 ^^ 외워봅시다.
 stage 추가 된 파일 commit<br>
 `$ git commit -m "커밋내용"`<br>
 
-origin에 존재하는 branch로 push 보통 초기에는 master branch를 사용한다.<br>
-`$ git push origin {branch명}`<br>
+로컬 브랜치를 원격 저장소에 push. 보통 초기에는 main 또는 master 브랜치를 사용함<br>
+`$ git push origin {브랜치명}`<br>
 
 ## 조회 관련<br>
 stage 추가 된 파일 목록 조회<br>
 `$ git status`<br>
 
-ssss<br>
+커밋 로그 조회<br>
 `$ git log`<br>
 
 삭제된 커밋을 포함한 모든 히스토리 조회<br>
@@ -54,12 +53,14 @@ ssss<br>
 브랜치 생성 및 전환<br>
 `$ git checkout -b {브랜치명}`<br>
 
-
 로컬 브랜치 삭제<br>
 `$ git branch -d {브랜치명}`<br>
 
 원격 브랜치 삭제<br>
 `$ git push origin --delete {브랜치명}`<br>
+
+원격 브랜치 변경사항 가져오기 <br>
+`$ git pull origin {브랜치명}`
 
 ## 병합 관련
 
@@ -68,8 +69,8 @@ ssss<br>
 
 
 병합 충돌 해결 후 병합 마무리<br>
-`$ git add {충돌 파일}`<br>
-`$ git commit`<br>
+`$ git add {충돌 파일명}`<br>
+`$ git commit -m {커밋 메세지}`<br>
 
 
 ## 원격 저장소 관련
@@ -106,6 +107,9 @@ ssss<br>
 
 stash된 변경 사항 적용<br>
 `$ git stash pop`<br>
+
+파일 삭제하지 않고, git에서 추적 중단<br>
+`$ git rm --cached {파일명}`<br>
 
 ### 추가적인 좋은 기능이 있다면 댓글 남겨주시면 감사하겠습니다 😀
 
