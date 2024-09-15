@@ -155,9 +155,6 @@ tags:
 | `-h` | 읽기 쉽게 단위로 표시 (예: MB, GB) |
 | `-T` | 파일 시스템 유형을 포함한 정보 표시     |
 
-메모리 사용량 확인<br>
-`$ free -h`<br>
-
 시스템 시간 및 날짜 확인<br>
 `$ date`<br>
 
@@ -177,9 +174,6 @@ tags:
 
 시스템 전체 업그레이드 (배포판 업그레이드 포함)<br>
 `$ sudo apt-get dist-upgrade`<br>
-
-설치된 모든 패키지 목록 보기<br>
-`$ dpkg --list`<br>
 
 특정 패키지 제거<br>
 `$ sudo apt-get remove {패키지명}`<br>
