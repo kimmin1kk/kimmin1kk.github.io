@@ -3,28 +3,31 @@
 icon: fa fa-id-card
 ---
 
-![Profile Photo](/assets/img/profile.png)
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <img src="/assets/img/profile.png" alt="Profile Photo" style="width: 400px; border-radius: 70%; margin-top: 50px">
+  <div>
+    <h2>👋 소개</h2>
+    <p>“항상 최선을 다하자.”</p>
+    <p>끊임없이 배움을 추구하고 팀과 함께 도전하며 성과를 이뤄내는 개발자 김경민입니다.</p> 
+    <p>팀 프로젝트에서 팀장과 부팀장 역할을 경험하며 협업의 핵심인 팀워크를 체감했고, 다양한 시행착오를 통해 흔들리지 않는 멘탈과 문제 해결 능력을 길렀습니다.</p>
+    <ul>
+      <li><strong>주요 역량</strong>: Spring Boot 백엔드 개발</li>
+      <li><strong>강점</strong>: 클라우드 및 DevOps 환경에서의 백엔드 개발과 MSA 설계 경험</li>
+      <li><strong>목표</strong>: 사용자에게 가치를 제공하는 안정적이고 확장성 높은 애플리케이션을 구축하는 것</li>
+    </ul>
+
+    <div style="margin-top: 20px; padding: 10px;">
+      <h3 style="margin: 0;">📧 연락처</h3>
+      <p><strong>이메일</strong>: rudals1888@gmail.com</p>
+      <p><strong>전화번호</strong>: 010-4408-5808</p>
+    </div>
+  </div>
+</div>
+
 
 ---
 
-### 📧 연락처
 
-- **이메일**: rudals1888@gmail.com
-- **전화번호**: 010-4408-5808
-
----
-
-## 👋 소개
-
-> “항상 최선을 다하자.”  
-> 끊임없이 배움을 추구하고 팀과 함께 도전하며 성과를 이뤄내는 개발자 김경민입니다.  
-> 팀 프로젝트에서 팀장과 부팀장 역할을 경험하며 협업의 핵심인 팀워크를 체감했고, 다양한 시행착오를 통해 흔들리지 않는 멘탈과 문제 해결 능력을 길렀습니다.
-
-**주요 역량**: Spring Boot 기반의 백엔드 개발  
-**강점**: 클라우드 및 DevOps 환경에서의 백엔드 개발과 MSA 설계 경험  
-**목표**: 사용자가 가치 있게 느낄 수 있는 안정적이고 확장성 높은 애플리케이션을 구축하는 개발자가 되는 것
-
----
 
 ## 🔧 기술 스택
 
