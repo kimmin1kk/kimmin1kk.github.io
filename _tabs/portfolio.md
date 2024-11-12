@@ -1,7 +1,126 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+icon: fa fa-id-card
 ---
 
-test
+![Profile Photo](/assets/img/profile.png)
+
+---
+
+### 📧 연락처
+
+- **이메일**: rudals1888@gmail.com
+- **전화번호**: 010-4408-5808
+
+---
+
+## 👋 소개
+
+> “항상 최선을 다하자.”  
+> 끊임없이 배움을 추구하고 팀과 함께 도전하며 성과를 이뤄내는 개발자 김경민입니다.  
+> 팀 프로젝트에서 팀장과 부팀장 역할을 경험하며 협업의 핵심인 팀워크를 체감했고, 다양한 시행착오를 통해 흔들리지 않는 멘탈과 문제 해결 능력을 길렀습니다.
+
+**주요 역량**: Spring Boot 기반의 백엔드 개발  
+**강점**: 클라우드 및 DevOps 환경에서의 백엔드 개발과 MSA 설계 경험  
+**목표**: 사용자가 가치 있게 느낄 수 있는 안정적이고 확장성 높은 애플리케이션을 구축하는 개발자가 되는 것
+
+---
+
+## 🔧 기술 스택
+
+- **백엔드 프레임워크**  
+  Spring Boot, Node.js
+
+- **프론트엔드 프레임워크**  
+  React
+
+- **아키텍처 및 DevOps**  
+  Kubernetes, AWS (Lambda, S3, CloudFormation, DynamoDB 등), Serverless Framework, Docker
+
+- **데이터베이스**  
+  PostgreSQL, MySQL, Redis, DynamoDB
+
+- **API 설계 및 인증**  
+  REST API, JSON Web Token (JWT), OAuth 2.0, Cognito
+
+- **모니터링 및 로깅**  
+  Datadog, CloudWatch
+
+- **버전 관리 및 협업 도구**  
+  Git, GitHub, Git Flow
+
+## 🎓 학력
+
+- **동서대학교 소프트웨어학과 (부전공: 빅데이터)**  
+  졸업 예정: *2025년 2월*, GPA: 3.58 / 4.5
+- **광명고등학교**  
+  졸업: *2019년 2월*
+
+---
+
+## 💼 프로젝트
+
+### [ESquad - 실시간 커뮤니케이션 스터디 플랫폼 (Monolithic)](https://github.com/SmashStudy/ESquad-BE)
+- **기간**: 2024.08 - 진행 중
+- **기술 스택**: Java, Spring Boot, Firebase, AWS S3, Spring Security
+- **역할**: 7인 프로젝트의 부팀장으로서 Git 관리와 전반적인 백엔드 개발 주도 및 설계를 맡았고, 최소 권한 원칙을 적용해 안정적인 스토리지 솔루션을 구현했습니다.
+
+### [BidNamu - 경매 시스템](https://github.com/BidNamu)
+- **기간**: 2023.11 - 2024.02
+- **기술 스택**: Java, Spring Boot, Redis, Docker, Jenkins
+- **설명**: 대규모 트래픽을 처리할 수 있는 경매 시스템을 설계했으며, 초기 기획과 분산 데이터베이스 사용을 통한 성능 최적화를 경험했습니다.
+
+### [CoffeeStore - 커피 판매 시스템](https://github.com/kimmin1kk/coffee_store_9)
+- **기간**: 2023.12
+- **기술 스택**: Java, Spring Data JPA, Thymeleaf, MySQL
+- **설명**: 3인 프로젝트의 팀장으로서 백엔드를 전담하며 프로젝트의 요구사항 분석부터 협업을 통한 성공적 완수까지 전체 과정을 주도했습니다.
+
+### [BookStore - 도서 판매 사이트](https://github.com/kimmin1kk/book_store)
+- **기간**: 2023.07 - 2023.09
+- **기술 스택**: Java, Spring Boot, Spring Security, Thymeleaf
+- **설명**: CRUD와 템플릿 엔진 활용 및 AOP와 권한별 페이지 접근 제어를 통해 웹 서비스 보안성을 강화한 프로젝트입니다.
+
+---
+
+## 🎓 교육 이력 및 활동
+
+- **클라우드 SaaS 기반 Java 개발자 양성 과정 (메가존 클라우드)**  
+  *2024.05.21 - 2024.12.12*  
+  AWS 기반의 서버리스 개발과 MSA 설계 경험을 쌓으며 클라우드 개발자로서의 역량을 강화
+
+- **Spring Framework를 활용한 Open API 서비스 개발 (멀티캠퍼스)**  
+  *2023.08.28 - 2023.09.01*  
+  RESTful API 설계 및 OAuth 2.0 기반 인증 서비스 구축 학습
+
+- **원티드 프리온보딩 백엔드 과정 (원티드)**  
+  *2023.06.05 - 2023.06.18*  
+  JVM과 GC, 스레드 동기화 등 Java의 성능 최적화 기술을 습득
+
+- **동서대학교 / DN 연구실 활동**  
+  *2022.09 - 2025.02*
+  - 개발 역량 심화 목적 주간 세미나, 10to10(10:00~22:00) 개발 공부
+  - AISW 창업동아리 활동 (2023, 2024)
+  - CES 2024 참여, 역량 강화 특강 3회, 선배 특강 3회
+
+---
+
+## 🏆 대외활동 및 수상
+
+- **K-Hackathon 12 본선 진출 (과학기술정보통신부)**  
+  *2024.05.13 - 2024.08.20*  
+  **프로젝트**: 재활용 다이어리 - 나의 재활치료 일기 (131팀 중 8팀 선정)
+
+- **21회 서울영상광고제 finalist 수상 (서울영상광고제집행위원회)**  
+  *2023.03 - 2023.12*  
+  **작품명**: Linking Longing
+
+- **16회 부산국제광고제 Crystal 수상 (부산국제마케팅광고제조직위원회)**  
+  *2023.03 - 2023.12*  
+  **작품명**: Linking Longing
+
+---
+
+### 🌐 링크
+
+- [GitHub](https://github.com/kimmin1kk)
+- [Blog](https://kimmin1kk.github.io/)

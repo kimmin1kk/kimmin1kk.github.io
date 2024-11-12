@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8c22578-be61-40cb-97ae-7b63934c0046" name="Changes" comment="docs: Upload post">
-      <change afterPath="$PROJECT_DIR$/_tabs/portfolio.md" afterDir="false" />
+    <list default="true" id="c8c22578-be61-40cb-97ae-7b63934c0046" name="Changes" comment="add: portfolio 탭 추가">
+      <change afterPath="$PROJECT_DIR$/assets/img/profile.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_tabs/portfolio.md" beforeDir="false" afterPath="$PROJECT_DIR$/_tabs/portfolio.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "develop",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/kimmin1kk/blog/kimmin1kk.github.io",
+    "last_opened_file_path": "/Users/kimmin1kk/blog/kimmin1kk.github.io/assets/img",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -113,7 +114,7 @@
       <workItem from="1726653778019" duration="1822000" />
       <workItem from="1726722141263" duration="3000" />
       <workItem from="1728003664988" duration="17000" />
-      <workItem from="1731396571516" duration="991000" />
+      <workItem from="1731396571516" duration="6637000" />
     </task>
     <task id="LOCAL-00001" summary="docs: edit description">
       <option name="closed" value="true" />
@@ -203,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726649530442</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add: portfolio 탭 추가">
+      <option name="closed" value="true" />
+      <created>1731397667897</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1731397667897</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +248,7 @@
     <MESSAGE value="docs: Update posts" />
     <MESSAGE value="docs: Update post" />
     <MESSAGE value="docs: Upload post" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: Upload post" />
+    <MESSAGE value="add: portfolio 탭 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: portfolio 탭 추가" />
   </component>
 </project>
