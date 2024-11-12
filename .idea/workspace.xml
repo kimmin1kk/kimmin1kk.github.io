@@ -4,15 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8c22578-be61-40cb-97ae-7b63934c0046" name="Changes" comment="init" />
+    <list default="true" id="c8c22578-be61-40cb-97ae-7b63934c0046" name="Changes" comment="docs: Upload post">
+      <change afterPath="$PROJECT_DIR$/_tabs/portfolio.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Markdown" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kimmin1kk&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kimmin1kk/kimmin1kk.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;f0ecb216-421e-49be-8a0d-0a27a87b9e57&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -24,47 +50,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kimmin1kk/blog/kimmin1kk.github.io&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;/Users/kimmin1kk/blog/kimmin1kk.github.io/node_modules/stylelint&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "develop",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/kimmin1kk/blog/kimmin1kk.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "/Users/kimmin1kk/blog/kimmin1kk.github.io/node_modules/stylelint",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="kimmin1kk.github.io" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="kimmin1kk.github.io" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-5f3ff201" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
       </set>
     </attachedChunks>
   </component>
@@ -85,6 +97,23 @@
       <workItem from="1719770373973" duration="26000" />
       <workItem from="1719770416332" duration="118000" />
       <workItem from="1719770543327" duration="54000" />
+      <workItem from="1720555124965" duration="110000" />
+      <workItem from="1720555640066" duration="737000" />
+      <workItem from="1721192112298" duration="5000" />
+      <workItem from="1722227734624" duration="35000" />
+      <workItem from="1723802513858" duration="611000" />
+      <workItem from="1724032547810" duration="781000" />
+      <workItem from="1724507658305" duration="1731000" />
+      <workItem from="1724571422632" duration="1184000" />
+      <workItem from="1724596570913" duration="1208000" />
+      <workItem from="1725427103736" duration="1264000" />
+      <workItem from="1726152308230" duration="655000" />
+      <workItem from="1726159299641" duration="3425000" />
+      <workItem from="1726399943369" duration="4838000" />
+      <workItem from="1726653778019" duration="1822000" />
+      <workItem from="1726722141263" duration="3000" />
+      <workItem from="1728003664988" duration="17000" />
+      <workItem from="1731396571516" duration="991000" />
     </task>
     <task id="LOCAL-00001" summary="docs: edit description">
       <option name="closed" value="true" />
@@ -110,7 +139,71 @@
       <option name="project" value="LOCAL" />
       <updated>1719766917314</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="docs: Upload post">
+      <option name="closed" value="true" />
+      <created>1720555772698</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720555772698</updated>
+    </task>
+    <task id="LOCAL-00005" summary="docs: Update posts">
+      <option name="closed" value="true" />
+      <created>1722227761378</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722227761378</updated>
+    </task>
+    <task id="LOCAL-00006" summary="docs: Update post">
+      <option name="closed" value="true" />
+      <created>1724507796075</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724507796075</updated>
+    </task>
+    <task id="LOCAL-00007" summary="docs: Upload post">
+      <option name="closed" value="true" />
+      <created>1726400749997</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726400749997</updated>
+    </task>
+    <task id="LOCAL-00008" summary="docs: Update post">
+      <option name="closed" value="true" />
+      <created>1726401147172</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726401147172</updated>
+    </task>
+    <task id="LOCAL-00009" summary="docs: Upload post">
+      <option name="closed" value="true" />
+      <created>1726490740166</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726490740166</updated>
+    </task>
+    <task id="LOCAL-00010" summary="docs: Upload post">
+      <option name="closed" value="true" />
+      <created>1726577315532</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726577315532</updated>
+    </task>
+    <task id="LOCAL-00011" summary="docs: Upload post">
+      <option name="closed" value="true" />
+      <created>1726649530442</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726649530442</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +236,9 @@
     <MESSAGE value="docs: edit description" />
     <MESSAGE value="chore: edit config (include _javascript)" />
     <MESSAGE value="feat: Added missing file, .nojekyll" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Added missing file, .nojekyll" />
+    <MESSAGE value="docs: Update posts" />
+    <MESSAGE value="docs: Update post" />
+    <MESSAGE value="docs: Upload post" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: Upload post" />
   </component>
 </project>
