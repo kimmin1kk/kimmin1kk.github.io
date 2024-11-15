@@ -64,24 +64,25 @@ icon: fa fa-id-card
 ## 💼 프로젝트
 
 ### [ESquad - 실시간 커뮤니케이션 스터디 플랫폼 (Monolithic)](https://github.com/SmashStudy/ESquad-BE)
-- **기간**: 2024.08 - 진행 중
-- **기술 스택**: Java, Spring Boot, Firebase, AWS S3, Spring Security
-- **역할**: 7인 프로젝트의 부팀장으로서 Git 관리와 전반적인 백엔드 개발 주도 및 설계를 맡았고, 최소 권한 원칙을 적용해 안정적인 스토리지 솔루션을 구현했습니다.
+**기간**: 2024.08 - 2024.09 
+**기술 스택**: Java, Spring Boot, Firebase, AWS S3, Spring Security  
+**역할 및 성과**: 7인 팀에서 부팀장으로 활동하며 Git 관리를 맡고 백엔드 파트의 전반적인 설계와 개발을 주도하였고, 최소 권한 원칙을 적용하여 안정적인 스토리지 솔루션을 구현했고, 해당 프로젝트를 BDIA에서 개최한 Dev-ton의 출품작으로 제출했습니다.
 
 ### [BidNamu - 경매 시스템](https://github.com/BidNamu)
-- **기간**: 2023.11 - 2024.02
-- **기술 스택**: Java, Spring Boot, Redis, Docker, Jenkins
-- **설명**: 대규모 트래픽을 처리할 수 있는 경매 시스템을 설계했으며, 초기 기획과 분산 데이터베이스 사용을 통한 성능 최적화를 경험했습니다.
+**기간**: 2023.11 - 2024.02  
+**기술 스택**: Java, Spring Boot, Redis, Docker, Jenkins  
+**역할 및 성과**: 초기 기획과 설계를 담당하며, 분산 데이터베이스를 활용해 대규모 트래픽을 처리할 수 있는 경매 시스템을 구현했습니다.
 
 ### [CoffeeStore - 커피 판매 시스템](https://github.com/kimmin1kk/coffee_store_9)
-- **기간**: 2023.12
-- **기술 스택**: Java, Spring Data JPA, Thymeleaf, MySQL
-- **설명**: 3인 프로젝트의 팀장으로서 백엔드를 전담하며 프로젝트의 요구사항 분석부터 협업을 통한 성공적 완수까지 전체 과정을 주도했습니다.
+**기간**: 2023.12  
+**기술 스택**: Java, Spring Data JPA, Thymeleaf, MySQL  
+**역할 및 성과**: 3인 팀에서 팀장으로 활동하며, 요구사항 분석부터 구현까지 전체 프로젝트를 주도했습니다.
 
 ### [BookStore - 도서 판매 사이트](https://github.com/kimmin1kk/book_store)
-- **기간**: 2023.07 - 2023.09
-- **기술 스택**: Java, Spring Boot, Spring Security, Thymeleaf
-- **설명**: CRUD와 템플릿 엔진 활용 및 AOP와 권한별 페이지 접근 제어를 통해 웹 서비스 보안성을 강화한 프로젝트입니다.
+**기간**: 2023.07 - 2023.09  
+**기술 스택**: Java, Spring Boot, Spring Security, Thymeleaf  
+**역할 및 성과**: CRUD와 템플릿 엔진을 활용해 도서 판매 사이트를 구현했습니다. AOP와 Spring Security를 적용하여 권한별 페이지 접근을 제어하고 보안을 강화했습니다.
+
 
 ---
 
