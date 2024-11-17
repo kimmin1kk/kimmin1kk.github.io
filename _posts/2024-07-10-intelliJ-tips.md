@@ -2,13 +2,12 @@
 title: 자주 쓰는/쓰일 IntelliJ 기능 모음
 description: 까먹었을 때를 대비해 남기는 글입니다.
 date: 2024-07-10 05:10:00 +09:00
-categories: [IDE,IntelliJ]
+categories: [Tip, IDE,IntelliJ]
 pin : true
 tags:
   [
     IntelliJ,
     Shortcut,
-    Tip,
     Settings
   ]
 ---

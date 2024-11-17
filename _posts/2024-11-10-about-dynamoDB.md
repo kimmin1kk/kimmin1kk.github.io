@@ -2,7 +2,7 @@
 title: DynamoDB란?
 description: 걸 쓰고 정리해보았읍니다.
 date: 2024-11-10 23:50:00 +09:00
-categories: [AWS, DynamoDB]
+categories: [Study, AWS, DynamoDB]
 pin : true
 tags:
   [
