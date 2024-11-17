@@ -1,7 +1,7 @@
 ---
 title: 자주 쓰는/쓰일 Kubernetes 명령어 모음
 description: Kubernetes 및 Kind 클러스터 관리에 유용한 명령어 모음
-date: 2024-09-17 00:21:49 +09:00
+date: 2024-09-17 21:49:00 +09:00
 categories: [DevOps, Kubernetes]
 pin : true
 tags:

@@ -1,7 +1,7 @@
 ---
 title:  "[Trouble Shooting] Lambda 함수와 API Gateway 커스텀 도메인 연결"
 description: 개발하면서 겪은 문제를 기록하고 해결 과정을 공유
-date: 2024-11-15 00:19:32 +09:00
+date: 2024-11-15 19:32:00 +09:00
 categories: [ Trouble Shooting, AWS ]
 pin: true
 tags:
