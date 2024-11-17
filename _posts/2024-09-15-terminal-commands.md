@@ -3,7 +3,7 @@ title: 자주 쓰는/쓰일 터미널 명령어 모음
 description: 터미널도 잘 쓰고 싶어요.
 date: 2024-09-15 20:46:00 +09:00
 categories: [Tip, Cli, Terminal]
-pin : true
+pin: false
 tags:
   [
     Terminal,
