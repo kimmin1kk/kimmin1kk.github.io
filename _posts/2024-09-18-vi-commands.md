@@ -1,7 +1,7 @@
 ---
 title: 자주 쓰는/쓰일 vi, Vim 명령어 모음
 description: vi는 잘 쓰고 싶진 않아요 ㅋ.. 
-date: 2024-09-18 00:17:52 +09:00
+date: 2024-09-18 17:52:00 +09:00
 categories: [Editor, Vi]
 pin : true
 tags:
