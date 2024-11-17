@@ -3,7 +3,7 @@ title: 자주 쓰는/쓰일 Git 명령어 모음
 description: git bash 잘 쓰고 싶어요
 date: 2024-08-07 11:50:00 +09:00
 categories: [Tip, Git, Command]
-pin : true
+pin: false
 tags:
   [
     Git,

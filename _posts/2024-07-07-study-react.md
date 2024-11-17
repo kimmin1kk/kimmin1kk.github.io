@@ -3,7 +3,7 @@ title: Node.js / React 개념 정리
 description: React 를 사용하기 전 개념 정리한 부분입니다.
 date: 2024-07-07 17:18:18 +09:00
 categories: [Study, Javascript, React]
-pin : true
+pin: false
 tags:
   [
     Node.js,

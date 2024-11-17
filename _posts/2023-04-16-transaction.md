@@ -3,7 +3,7 @@ title: Transaction?
 description: Transaction에 관해 공부한 내용을 정리한 글입니다.
 date: 2023-04-16 23:59:00 +09:00
 categories: [Study, Database, Transaction]
-pin : true
+pin: false
 tags:
   [
     Database,
