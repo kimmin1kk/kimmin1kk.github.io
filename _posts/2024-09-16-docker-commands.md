@@ -2,15 +2,14 @@
 title: 자주 쓰는/쓰일 Docker 명령어 모음
 description: Docker 및 Dockerfile 명령어를 효과적으로 활용하기 위한 모음
 date: 2024-09-16 21:45:00 +09:00
-categories: [DevOps, Docker]
+categories: [Tip, DevOps, Docker]
 pin : true
 tags:
   [
     Docker,
     Container,
     Command,
-    Dockerfile,
-    Tip
+    Dockerfile
   ]
 ---
 

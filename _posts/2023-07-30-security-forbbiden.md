@@ -2,7 +2,7 @@
 title: "[Trouble Shooting] Spring Security 403 Forbidden 해결"
 description: Spring Boot 3 버전 Spring Security를 사용하다 겪었던 문제와, 해결방안을 정리해 둔 글입니다.
 date: 2023-07-30 23:59:00 +09:00
-categories: [Trouble Shooting, Spring Boot]
+categories: [Trouble Shooting, Spring Boot, Spring Security]
 pin : true
 tags:
   [

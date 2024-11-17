@@ -2,7 +2,7 @@
 title: Entity 생명주기와 영속성 컨텍스트
 description: Entity 생명주기와 영속성 컨텍스트에 관해 공부한 내용을 정리한 글입니다.
 date: 2024-05-28 23:59:59 +09:00
-categories: [Spring Boot, JPA]
+categories: [Study, Spring Boot, JPA]
 pin : true
 tags:
   [
