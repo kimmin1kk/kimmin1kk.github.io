@@ -63,9 +63,17 @@ order: 5
 
 ## 💼 프로젝트
 
+### [ESquad - 실시간 커뮤니케이션 스터디 플랫폼 (Serverless)](https://github.com/SmashStudy/ESquad-serverless-monorepo)
+
+**기간**: 2024.09 - 2024.12  
+**기술 스택**: Javascript, Node.js, Serverless Framework, AWS(IAM, Lambda, S3, Route53, CloudFront, CloudFormation, DynamoDB, API Gateway, Cognito, CloudWatch), Github Actions, DataDog, AG Grid, ECharts   
+**역할 및 성과**: 이전에 모놀리식으로 개발했던 프로젝트를 Serverless로 마이그레이션 및 기능 확장한 프로젝트입니다.  
+해당 프로젝트에선 스토리지 도메인 개발 외에 추가적으로 프로젝트 인프라 설계 및 관리, CI/CD 파이프라인 구축, AWS 리소스 관리를 주도적으로 맡았습니다.  
+또한 메가존 클라우드 교육과정(클라우드 SaaS 기반 Java 개발자 양성과정 3기)의 최종 발표를 위해 준비한 프로젝트로, 발표에서 주요 성과와 기술적인 완성도를 강조해 성공적으로 발표를 마칠 수 있었습니다.
+
 ### [ESquad - 실시간 커뮤니케이션 스터디 플랫폼 (Monolithic)](https://github.com/SmashStudy/ESquad-BE)
 
-**기간**: 2024.08 - 2024.09
+**기간**: 2024.08 - 2024.09  
 **기술 스택**: Java, Spring Boot, Firebase, AWS S3, Spring Security  
 **역할 및 성과**: 7인 팀에서 부팀장으로 활동하며 Git 관리를 맡고 백엔드 파트의 전반적인 설계와 개발을 주도하였고, 최소 권한 원칙을 적용하여 안정적인 스토리지 솔루션을
 구현했고, 해당 프로젝트를 BDIA에서 개최한 Dev-ton의 출품작으로 제출했고 우수상을 수상했습니다.
